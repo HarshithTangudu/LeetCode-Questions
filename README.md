@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0661-image-smoother](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0661-image-smoother) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Matrix
+|  |
+| ------- |
+| [0661-image-smoother](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
