@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
