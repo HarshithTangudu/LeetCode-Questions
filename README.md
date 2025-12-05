@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0661-image-smoother](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0661-image-smoother) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Queue
 |  |
 | ------- |
@@ -75,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -88,4 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
