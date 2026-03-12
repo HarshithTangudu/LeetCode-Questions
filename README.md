@@ -43,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
