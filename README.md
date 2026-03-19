@@ -9,6 +9,7 @@
 | [0078-subsets](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0268-missing-number) |
@@ -89,6 +90,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0661-image-smoother](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0661-image-smoother) |
 ## Divide and Conquer
 |  |
@@ -152,5 +154,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0322-coin-change) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
