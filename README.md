@@ -37,6 +37,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0371-sum-of-two-integers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -68,6 +69,7 @@
 | ------- |
 | [0078-subsets](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
