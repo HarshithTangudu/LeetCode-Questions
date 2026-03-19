@@ -18,6 +18,7 @@
 | [0322-coin-change](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0661-image-smoother](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0661-image-smoother) |
+| [0875-koko-eating-bananas](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -69,6 +70,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2498-frog-jump-ii](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
 ## Bit Manipulation
