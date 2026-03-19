@@ -64,6 +64,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [2498-frog-jump-ii](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
 ## Bit Manipulation
 |  |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0200-number-of-islands) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
