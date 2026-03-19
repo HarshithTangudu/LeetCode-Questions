@@ -20,6 +20,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2498-frog-jump-ii](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2498-frog-jump-ii](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
 ## Bit Manipulation
 |  |
@@ -79,6 +82,7 @@
 | [0268-missing-number](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Queue
 |  |
 | ------- |
