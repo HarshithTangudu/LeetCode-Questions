@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -64,6 +65,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/HarshithTangudu/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
